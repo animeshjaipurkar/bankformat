@@ -9,7 +9,7 @@ python3 script.py bank2.csv bank3.csv --output_file merge2.csv
 
 # Sample Merged Output 
 
-File merged.csv
+[File merged.csv](merged.csv)
 
 
 # Running the Test cases 
