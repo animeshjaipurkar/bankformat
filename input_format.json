@@ -1,0 +1,62 @@
+{
+  "TYPE_1": {
+    "fields": {
+      "timestamp": {
+        "type": "datetime"        
+      },
+      "type": {
+        "type": "str"        
+      },
+      "amount": {
+        "type": "float"        
+      },
+      "from": {
+        "type": "str"        
+      },
+      "to": {
+        "type": "str"        
+      }
+    }
+  },
+  "TYPE_2": {
+    "fields": {
+      "date": {
+        "type": "datetime"        
+      },
+      "transaction": {
+        "type": "str"        
+      },
+      "amounts": {
+        "type": "float"        
+      },
+      "to": {
+        "type": "str"        
+      },
+      "from": {
+        "type": "str"        
+      }
+    }
+  },
+  "TYPE_3": {
+    "fields": {
+      "date_readable": {
+        "type": "datetime"        
+      },
+      "type": {
+        "type": "str"        
+      },
+      "euro": {
+        "type": "int"        
+      },
+      "cents": {
+        "type": "int"        
+      },
+      "to": {
+        "type": "str"        
+      },
+      "from": {
+        "type": "str"        
+      }
+    }
+  }
+}
